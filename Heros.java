@@ -45,7 +45,7 @@ public class Heros extends Humain {
         }
         
     }
-    public void looter() {test;
+    public void looter() {
         
     }
     public void fuite() {
